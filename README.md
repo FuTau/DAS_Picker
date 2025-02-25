@@ -1,6 +1,6 @@
 # DAS_Picker
 
-![Logo](icon.png) <!--https://github.com/FuTau/DAS_Picker/blob/main/icon-->
+![Icon](icon.png) <!--https://github.com/FuTau/DAS_Picker/blob/main/icon/-->
 
 ---
 
