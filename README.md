@@ -13,4 +13,4 @@
 - **跨平台支持**：Windows、macOS、Linux
 
 ## 使用示例
-<img src="https://github.com/FuTau/DAS_Picker/blob/main/gif/gif.png" width="200" height="200" alt="描述文本">
+<img src="https://github.com/FuTau/DAS_Picker/blob/main/gif/动画.gif" width="700" height="400" alt="描述文本">
