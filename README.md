@@ -12,3 +12,5 @@
 - **易于使用**：简洁的用户界面，快速上手。
 - **跨平台支持**：Windows、macOS、Linux
 
+## 使用示例
+<img src="https://github.com/FuTau/DAS_Picker/blob/main/gif/gif.png" width="200" height="200" alt="描述文本">
