@@ -1,4 +1,4 @@
-# [软件名称]
+# [DAS_Picker]
 
 ![Logo](logo.png) <!---->
 
