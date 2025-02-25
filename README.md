@@ -1,6 +1,6 @@
 # DAS_Picker
 
-![Icon](icon.png) <!--https://github.com/FuTau/DAS_Picker/blob/main/icon/-->
+<img src="https://github.com/FuTau/DAS_Picker/blob/main/icon/icon.png" width="100" height="100" alt="描述文本">
 
 ---
 
@@ -12,8 +12,3 @@
 - **易于使用**：简洁的用户界面，快速上手。
 - **跨平台支持**：Windows、macOS、Linux
 
-## 安装
-### 从源代码安装
-1. 克隆仓库：
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
